@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="56.391" height="55.171" viewBox="0 0 56.391 55.171">
+  <defs>
+    <filter id="Path_3" x="0" y="0" width="56.391" height="55.171" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-color="#cc9326" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <radialGradient id="radial-gradient" cx="0.437" cy="0.243" r="0.787" gradientTransform="translate(0.019) scale(0.963 1)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#6ff85b"/>
+      <stop offset="1" stop-color="#27d90d"/>
+    </radialGradient>
+    <filter id="_1_000" x="3.021" y="6.422" width="49.343" height="42.378" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_77" data-name="Group 77" transform="translate(-508.029 -456.45)">
+    <g transform="matrix(1, 0, 0, 1, 508.03, 456.45)" filter="url(#Path_3)">
+      <path id="Path_3-2" data-name="Path 3" d="M681.29,976.737l2.015,4.2a3.9,3.9,0,0,0,3,2.178l4.617.618a3.9,3.9,0,0,1,2.172,6.686l-3.372,3.214a3.9,3.9,0,0,0-1.145,3.524l.839,4.583a3.9,3.9,0,0,1-5.687,4.132l-4.1-2.214a3.9,3.9,0,0,0-3.7,0l-4.1,2.214a3.9,3.9,0,0,1-5.687-4.132l.839-4.583a3.9,3.9,0,0,0-1.145-3.524l-3.372-3.214a3.9,3.9,0,0,1,2.172-6.686l4.617-.618a3.9,3.9,0,0,0,3-2.178l2.015-4.2A3.9,3.9,0,0,1,681.29,976.737Z" transform="translate(-614.6 -988.94) rotate(2)" fill="#e4e4e4" stroke="#6ff85b" stroke-width="4"/>
+    </g>
+    <path id="Path_1" data-name="Path 1" d="M681.29,976.737l2.015,4.2a3.9,3.9,0,0,0,3,2.178l4.617.618a3.9,3.9,0,0,1,2.172,6.686l-3.372,3.214a3.9,3.9,0,0,0-1.145,3.524l.839,4.583a3.9,3.9,0,0,1-5.687,4.132l-4.1-2.214a3.9,3.9,0,0,0-3.7,0l-4.1,2.214a3.9,3.9,0,0,1-5.687-4.132l.839-4.583a3.9,3.9,0,0,0-1.145-3.524l-3.372-3.214a3.9,3.9,0,0,1,2.172-6.686l4.617-.618a3.9,3.9,0,0,0,3-2.178l2.015-4.2A3.9,3.9,0,0,1,681.29,976.737Z" transform="translate(-106.571 -532.488) rotate(2)" fill="url(#radial-gradient)"/>
+    <g id="Group_20" data-name="Group 20" transform="translate(211.469 171.735) rotate(7)">
+      <g transform="matrix(0.99, -0.12, 0.12, 0.99, 329.05, 246.45)" filter="url(#_1_000)">
+        <text id="_1_000-2" data-name="1,000" transform="translate(14.86 26.56) rotate(7)" fill="#3c3c3c" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" font-size="14" font-family="DBHeavent-Bold, DB Heavent" font-weight="700"><tspan x="0" y="0">1,000</tspan></text>
+      </g>
+      <text id="_1_000-3" data-name="1,000" transform="translate(347.033 271.004)" fill="#3c3c3c" font-size="14" font-family="DBHeavent-Bold, DB Heavent" font-weight="700"><tspan x="0" y="0">1,000</tspan></text>
+    </g>
+  </g>
+</svg>
